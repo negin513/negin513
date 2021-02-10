@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Negin 👋
+I am an atmospheric scientist and a software engineer who is passionate about adopting emerging computational technologies for improving the performance of weather and climate forecasting models. 
 
-<!--
-**negin513/negin513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am particularly interested in improving weather and climate forecasts using artificial intelligence and deep learning algorithms. 
 
-Here are some ideas to get you started:
+I am currently working at the [Climate and Global Dynamics Laboratory](https://www.cgd.ucar.edu/) at the [National Center for Atmospheric Research](https://ncar.ucar.edu/). I have a Ph.D. in Chemical Engineering from the University of Iowa and my thesis was focused on optimization of weather and air quality models for different applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏔 I live in Boulder, Colorado
+- 📫 How to reach me: [@n_sobhani](https://twitter.com/n_sobhani)
+- 😄 Pronouns: she/her/hers
+- 💬 Ask me about weather, air quality, and climate forecasting models
+
+![ViewCount](https://views.whatilearened.today/views/github/negin513/views.svg)
