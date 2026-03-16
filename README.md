@@ -21,11 +21,8 @@ My current work spans scaling AI/ML workflows on supercomputers for Earth system
 🌱 Contributing to the [Pangeo](https://pangeo.io/) ecosystem and teaching scalable geospatial data analysis at SciPy, ESDS, and NCAR workshops
 
 ### Want to connect?
-
-💻 I'm open to collaborating with folks working on scientific ML, HPC optimization, AI for weather/climate, or open geospatial tools — reach out!
+💬 Ask me about AI/ML for weather and climate, optimizing AI workflows, distributed training on HPC, and scalable geospatial data workflows
 
 📫 Find me on [LinkedIn](https://linkedin.com/in/neginsobhani)
-
-💬 Ask me about AI/ML for weather and climate, optimizing AI workflows, distributed training on HPC, and scalable geospatial data workflows
 
 😄 Pronouns: she/her/hers
