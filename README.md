@@ -8,17 +8,9 @@ I have a Ph.D. in Chemical Engineering from the University of Iowa, where my the
 
 I am also an **open-source contributor** to [Xarray](https://github.com/pydata/xarray), [CuPy-Xarray](https://github.com/xarray-contrib/cupy-xarray), [Zarr-Python](https://github.com/zarr-developers/zarr-python), [WRF](https://github.com/wrf-model/WRF), [CESM/CTSM](https://github.com/ESCOMP/CTSM), and [Project Pythia](https://projectpythia.org/).
 
-### What I'm currently working on:
 
-⚙️ Architecting and optimizing distributed multi-node, multi-GPU training AI/ML workflows on NCAR's supercomputers
-
-📊 Building scalable GPU-native data pipelines for petabyte-scale Earth system datasets
-
-🌱 Contributing to the [Pangeo](https://pangeo.io/) ecosystem and teaching scalable geospatial data analysis at SciPy, ESDS, and NCAR workshops
-
-### 🤝 Let’s connect
-💬 Ask me about AI/ML for weather and climate, optimizing AI workflows, distributed training on HPC, and scalable geospatial data workflows
-
-📫 Find me on [LinkedIn](https://linkedin.com/in/neginsobhani)
-
-![Profile Views](https://views.whatilearened.today/views/github/negin513/views.svg)
+### 🤝 Let's connect
+💬 Ask me about AI/ML for weather and climate, optimizing AI workflows, distributed training on HPC, and scalable geospatial data workflows  
+📫 Find me on [LinkedIn](https://linkedin.com/in/neginsobhani)   
+🌐 [![Website](https://img.shields.io/badge/Website-negin513.github.io-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://negin513.github.io/)    
+![Profile Views](https://views.whatilearened.today/views/github/negin513/views.svg)    
